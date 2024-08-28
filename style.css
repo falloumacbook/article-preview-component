@@ -118,6 +118,7 @@ button:focus {
   align-items: center;
   justify-content: space-evenly;
   box-shadow: 0rem 2px 10px 2px hsla(217, 19%, 35%, 0.26);
+  transition: ease-in .4s;
 }
 .social::after {
   content: "";
