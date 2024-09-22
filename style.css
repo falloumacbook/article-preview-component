@@ -82,6 +82,8 @@ footer {
   font-size: 1.6rem;
   white-space: nowrap;
   color: hsl(216, 32%, 32%);
+  text-transform: capitalize;
+  
 }
 .id .name p {
   font-weight: 700;
